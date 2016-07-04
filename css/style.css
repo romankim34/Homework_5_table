@@ -1,0 +1,65 @@
+
+.container {
+    width: 600px;
+    margin: 100px auto;
+}
+.container table {
+    border: none;
+    
+}
+.container .first {
+     height: 45px;
+}
+.second {
+    height: 130px;
+}
+.second>td {
+    width: 20px;
+}
+.container td {
+    border: 5px solid #3c3c3c;
+    padding: 10px;
+}
+#a, #c, #h {
+    background: yellow;
+}
+#b {
+    background: red;
+    width: 270px;
+}
+#d, #e {
+    width: 50px;
+}
+#f {
+    height: 130px;
+    background: black;
+}
+#g, #i {
+    width: 130px;
+}
+#o {
+    background: black;
+}
+#p {
+    background: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
